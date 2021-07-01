@@ -1,0 +1,17 @@
+{
+  "name": "4iz278/matj26-sp",
+  "description": "Semestrální práce",
+  "minimum-stability": "stable",
+  "type": "project",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jonáš Matějka"
+    }
+  ],
+  "require": {
+    "php": ">= 7.2",
+    "phpmailer/phpmailer": "^6.1",
+    "mpdf/mpdf": "v8.0.11"
+  }
+}
