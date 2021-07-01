@@ -1,4 +1,4 @@
-#E-shop - Semestrální práce
+# E-shop - Semestrální práce
 
 Semestrální práce ve 4. semestru Vysoké školy ekonomické v Praze v rámci předmětu Webové aplikace.
 
