@@ -1,0 +1,50 @@
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.form-signin .checkbox {
+    font-weight: 400;
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-signin .sr-only{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form-signin .btn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.card-product-list {
+    margin-bottom: 20px;
+}
+
+.header{
+    width: 100%;
+    padding: 15px 0;
+    background-color: #DFDFDF;
+}
